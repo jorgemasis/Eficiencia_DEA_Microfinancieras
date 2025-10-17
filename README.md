@@ -1,2 +1,2 @@
 # Eficiencia_DEA_Microfinancieras
-Evaluación de Eficiencia Técnica de la Microfinancieras  bajo metodología de Análisis Envolvente de Datos (DEA) con con rendimientos variables (VRS) orientada a Outputs
+Evaluación de Eficiencia Técnica de Microfinancieras bajo la metodología de Análisis Envolvente de Datos (DEA) con rendimientos variables a escala (VRS) orientada a outputs.
